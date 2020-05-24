@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e5b897d0-318f-44ee-b1b2-5cd6b2791e9c" name="sales" url="http://127.0.0.1:8000">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
