@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="_dl" value="dd(__LINE__);" description="dd LINE" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
