@@ -11,7 +11,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="flf" value="['FILE' =&gt; __FILE__, 'LINE' =&gt; __LINE__]" toReformat="true" toShortenFQNames="true">
+  <template name="flf" value="['FILE' =&gt; __FILE__, 'LINE' =&gt; __LINE__]" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
     </context>
