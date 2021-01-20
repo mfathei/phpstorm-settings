@@ -16,7 +16,7 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
-  <template name="_st" value="declare(strict_types=1);" toReformat="true" toShortenFQNames="true">
+  <template name="_st" value="declare(strict_types=1);" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
