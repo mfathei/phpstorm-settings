@@ -11,6 +11,7 @@
     <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" shouldLog="false" playSound="true" />
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" playSound="true" />
     <notification groupId="Indexing" playSound="true" />
+    <notification groupId="Language level synchronisation with Composer" playSound="true" />
     <notification groupId="Linters" displayType="NONE" playSound="true" />
     <notification groupId="Missing SDKs" playSound="true" />
     <notification groupId="Node.js interpreter" playSound="true" />
