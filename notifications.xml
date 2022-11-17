@@ -1,0 +1,38 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" playSound="true" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" playSound="true" />
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" shouldLog="false" playSound="true" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" playSound="true" />
+    <notification groupId="Dynamic plugin installation" shouldLog="false" playSound="true" />
+    <notification groupId="Execution" displayType="NONE" playSound="true" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" shouldLog="false" playSound="true" />
+    <notification groupId="FTP/SFTP Connectivity" playSound="true" />
+    <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" shouldLog="false" playSound="true" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Indexing" playSound="true" />
+    <notification groupId="Language level synchronisation with Composer" playSound="true" />
+    <notification groupId="Linters" displayType="NONE" playSound="true" />
+    <notification groupId="Missing SDKs" playSound="true" />
+    <notification groupId="Node.js interpreter" playSound="true" />
+    <notification groupId="PHP Interpreters" playSound="true" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" shouldLog="false" playSound="true" />
+    <notification groupId="Plugins AutoSwitch" playSound="true" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Power Save Mode" playSound="true" />
+    <notification groupId="Profiling" playSound="true" />
+    <notification groupId="Project generator" playSound="true" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" playSound="true" />
+    <notification groupId="Required Plugins" playSound="true" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" playSound="true" />
+    <notification groupId="Settings Repository" playSound="true" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" playSound="true" />
+    <notification groupId="Vcs Notifications" playSound="true" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" playSound="true" />
+    <notification groupId="Vue" playSound="true" />
+    <notification groupId="Webpack" displayType="NONE" playSound="true" />
+  </component>
+</application>
