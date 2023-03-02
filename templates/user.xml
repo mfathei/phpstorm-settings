@@ -1,0 +1,25 @@
+<templateSet group="user">
+  <template name="_dl" value="dd(__LINE__);" description="dd LINE" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="logl" value="Log::error($exc-&gt;getMessage(), ['employees' =&gt; $this-&gt;employees-&gt;toJson(), 'file' =&gt; __FILE__, 'line' =&gt; __LINE__]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="_flf" value="['FILE' =&gt; __FILE__, 'LINE' =&gt; __LINE__]" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+  <template name="_st" value="declare(strict_types=1);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
