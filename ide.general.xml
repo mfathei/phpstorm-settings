@@ -5,6 +5,7 @@
     <option name="inactiveTimeout" value="60" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="supportScreenReaders" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
