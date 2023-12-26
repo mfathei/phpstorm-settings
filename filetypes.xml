@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
