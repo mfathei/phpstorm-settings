@@ -11,6 +11,7 @@
       <map>
         <entry key="Encoding" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionProvider" value="false" />
       </map>
     </option>
   </component>
