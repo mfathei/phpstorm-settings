@@ -12,6 +12,7 @@
       <w>chatbot</w>
       <w>ckmedia</w>
       <w>colvis</w>
+      <w>configdb</w>
       <w>conformio</w>
       <w>createx</w>
       <w>cruds</w>
@@ -27,6 +28,7 @@
       <w>elkyood</w>
       <w>encryptable</w>
       <w>endfeature</w>
+      <w>fanniv</w>
       <w>fillable</w>
       <w>formvalidation</w>
       <w>freezed</w>
@@ -52,6 +54,8 @@
       <w>makhzon</w>
       <w>mashrooms</w>
       <w>mceditor</w>
+      <w>mongoconfig</w>
+      <w>mongodata</w>
       <w>moyasar</w>
       <w>multilogin</w>
       <w>multitheme</w>
@@ -64,6 +68,7 @@
       <w>perfomed</w>
       <w>promocode</w>
       <w>rawan</w>
+      <w>redisdata</w>
       <w>rememberme</w>
       <w>requriements</w>
       <w>rewardful</w>
